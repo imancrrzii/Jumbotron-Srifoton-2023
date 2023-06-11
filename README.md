@@ -1,4 +1,4 @@
 # Simply-Landing-Page
-Temporary
+Temporary (!Responsive)
 
 Preview: https://landing-foton23.netlify.app/
